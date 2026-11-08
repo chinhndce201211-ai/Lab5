@@ -1,0 +1,28 @@
+[
+ {
+  "InstFile" : "D:/FAP/Lab05/src/Lab05.vhd",
+  "InstLine" : 4,
+  "InstName" : "lab05",
+  "ModuleFile" : "D:/FAP/Lab05/src/Lab05.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "lab05",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/FAP/Lab05/src/Lab05.vhd",
+    "InstLine" : 26,
+    "InstName" : "LFSR_INST",
+    "ModuleFile" : "D:/FAP/Lab05/src/lfsr_timer.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "lfsr_timer"
+   },
+   {
+    "InstFile" : "D:/FAP/Lab05/src/Lab05.vhd",
+    "InstLine" : 46,
+    "InstName" : "DEMUX_INST",
+    "ModuleFile" : "D:/FAP/Lab05/src/demux_1_to_4.vhd",
+    "ModuleLine" : 4,
+    "ModuleName" : "demux_1_to_4"
+   }
+  ]
+ }
+]
